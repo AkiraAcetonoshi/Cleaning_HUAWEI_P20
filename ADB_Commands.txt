@@ -1,0 +1,49 @@
+adb shell
+
+pm uninstall -k --user 0 com.huawei.android.launcher
+pm uninstall -k --user 0 com.huawei.appmarket
+pm uninstall -k --user 0 com.huawei.HwmultiScreenShot
+pm uninstall -k --user 0 com.huawei.compass
+pm uninstall -k --user 0 com.huawei.videoeditor
+pm uninstall -k --user 0 com.huawei.securitymgr
+pm uninstall -k --user 0 com.huawei.hidisk
+pm uninstall -k --user 0 com.huawei.phoneservice
+pm uninstall -k --user 0 com.huawei.vassistant
+pm uninstall -k --user 0 com.huawei.imedia.sws
+pm uninstall -k --user 0 com.huawei.motionservice
+pm uninstall -k --user 0 com.huawei.contactscamcard
+pm uninstall -k --user 0 com.huawei.himovie.overseas
+pm uninstall -k --user 0 com.huawei.android.thememanager
+pm uninstall -k --user 0 com.huawei.watch.sync
+pm uninstall -k --user 0 com.huawei.scanner
+pm uninstall -k --user 0 com.hicloud.android.clone
+pm uninstall -k --user 0 com.huawei.android.mirrorshare
+pm uninstall -k --user 0 com.huawei.android.totemweatherapp
+pm uninstall -k --user 0 com.huawei.android.totemweatherwidget
+pm uninstall -k --user 0 com.huawei.hwid
+pm uninstall -k --user 0 com.huawei.android.hsf
+pm uninstall -k --user 0 com.huawei.android.instantshare
+pm uninstall -k --user 0 com.huawei.KoBackup
+pm uninstall -k --user 0 com.huawei.rcsserviceapplication
+pm uninstall -k --user 0 com.huawei.iconnect
+pm uninstall -k --user 0 com.huawei.hiview
+
+pm uninstall -k --user 0 com.touchtype.swiftkey
+pm uninstall -k --user 0 com.swiftkey.swiftkeyconfigurator
+pm uninstall -k --user 0 com.android.calendar
+pm uninstall -k --user 0 com.android.email
+pm uninstall -k --user 0 com.android.stk
+
+pm uninstall -k --user 0 com.orange.update
+pm uninstall -k --user 0 com.orange.aura.oobe
+
+pm uninstall -k --user 0 com.google.android.apps.photos
+pm uninstall -k --user 0 com.google.android.videos
+pm uninstall -k --user 0 com.google.android.music
+pm uninstall -k --user 0 com.android.chrome
+pm uninstall -k --user 0 com.google.android.apps.tachyon
+pm uninstall -k --user 0 com.google.android.gm
+pm uninstall -k --user 0 com.google.android.googlequicksearchbox
+pm uninstall -k --user 0 com.google.android.apps.messaging
+pm uninstall -k --user 0 com.google.android.apps.docs
+pm uninstall -k --user 0 com.google.android.tts
