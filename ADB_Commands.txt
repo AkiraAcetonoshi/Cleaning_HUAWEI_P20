@@ -18,6 +18,9 @@ pm uninstall -k --user 0 com.huawei.watch.sync
 pm uninstall -k --user 0 com.huawei.scanner
 pm uninstall -k --user 0 com.hicloud.android.clone
 pm uninstall -k --user 0 com.huawei.android.mirrorshare
+pm uninstall -k --user 0 com.huawei.android.mirrorshare
+pm uninstall -k --user 0 com.huawei.android.totemweather
+pm uninstall -k --user 0 com.huawei.android.totemweatherapp
 pm uninstall -k --user 0 com.huawei.android.totemweatherapp
 pm uninstall -k --user 0 com.huawei.android.totemweatherwidget
 pm uninstall -k --user 0 com.huawei.hwid
